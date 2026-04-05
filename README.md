@@ -4,7 +4,7 @@
 This project predicts customer churn for a telecommunications company using Machine Learning (XGBoost). By identifying customers at risk of leaving, the business can take proactive retention measures.
 
 ## 🚀 Live Demo
-**Try the interactive web app here:** [👉 Click Here to View the App](PUT_YOUR_STREAMLIT_LINK_HERE)
+**Try the interactive web app here:** [👉 Click Here to View the App](https://customer-churn-prediction-chset6utrubffhc2kwfjed.streamlit.app/)
 
 ## 🛠️ Architecture
 - **Model Hosting:** Hosted on [Hugging Face](https://huggingface.co/khalidv5/churn-model) due to file size constraints.
